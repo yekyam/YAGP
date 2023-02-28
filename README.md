@@ -8,10 +8,12 @@ stuff it in a class, add some basic conversions, and wrapped everything in `std:
 Honestly, this is mainly for my own use, but if others find use, that's great.
 
 ## Features:
-- Supports basic conversions (int, float, std::string_view, bool)
+- **Supports basic conversions** (int, float, std::string_view, bool)
 - Supports max argument counts
 - Supports verbosity
-- No exceptions
+- **No exceptions**
+- **Header Only**
+- **No dependencies**
 - Simple!
 
 ## Examples - In Code:
